@@ -1,0 +1,16 @@
+D:\TPL\ParallelExamples\ProjectDataflowGraphs\bin\Debug\ProjectGraphs.exe.config
+D:\TPL\ParallelExamples\ProjectDataflowGraphs\obj\Debug\ProjectGraphs.exe
+D:\TPL\ParallelExamples\ProjectDataflowGraphs\obj\Debug\ProjectGraphs.pdb
+D:\TPL\ParallelExamples\ProjectDataflowGraphs\bin\Debug\ProjectGraphs.exe
+D:\TPL\ParallelExamples\ProjectDataflowGraphs\bin\Debug\ProjectGraphs.pdb
+D:\TPL\ParallelExamples\ProjectDataflowGraphs\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\TPL\ParallelExamples\ProjectDataflowGraphs\bin\Debug\System.Threading.Tasks.Dataflow.xml
+D:\TPL\ParallelExamples\ProjectDataflowGraphs\obj\Debug\ProjectDataflowGraphs.csprojResolveAssemblyReference.cache
+D:\ITU_edu\3sem\TPL Dataflow\TPLDataflowProject\ProjectDataflowGraphs\bin\Debug\ProjectGraphs.exe.config
+D:\ITU_edu\3sem\TPL Dataflow\TPLDataflowProject\ProjectDataflowGraphs\obj\Debug\ProjectGraphs.exe
+D:\ITU_edu\3sem\TPL Dataflow\TPLDataflowProject\ProjectDataflowGraphs\obj\Debug\ProjectGraphs.pdb
+D:\ITU_edu\3sem\TPL Dataflow\TPLDataflowProject\ProjectDataflowGraphs\bin\Debug\ProjectGraphs.exe
+D:\ITU_edu\3sem\TPL Dataflow\TPLDataflowProject\ProjectDataflowGraphs\bin\Debug\ProjectGraphs.pdb
+D:\ITU_edu\3sem\TPL Dataflow\TPLDataflowProject\ProjectDataflowGraphs\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\ITU_edu\3sem\TPL Dataflow\TPLDataflowProject\ProjectDataflowGraphs\bin\Debug\System.Threading.Tasks.Dataflow.xml
+D:\ITU_edu\3sem\TPL Dataflow\TPLDataflowProject\ProjectDataflowGraphs\obj\Debug\ProjectDataflowGraphs.csprojResolveAssemblyReference.cache

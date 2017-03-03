@@ -1,0 +1,8 @@
+D:\TPL\ParallelExamples\ProjectGraphs\bin\Debug\ProjectGraphs.exe.config
+D:\TPL\ParallelExamples\ProjectGraphs\bin\Debug\ProjectGraphs.exe
+D:\TPL\ParallelExamples\ProjectGraphs\bin\Debug\ProjectGraphs.pdb
+D:\TPL\ParallelExamples\ProjectGraphs\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\TPL\ParallelExamples\ProjectGraphs\bin\Debug\System.Threading.Tasks.Dataflow.xml
+D:\TPL\ParallelExamples\ProjectGraphs\obj\Debug\ProjectGraphs.csprojResolveAssemblyReference.cache
+D:\TPL\ParallelExamples\ProjectGraphs\obj\Debug\ProjectGraphs.exe
+D:\TPL\ParallelExamples\ProjectGraphs\obj\Debug\ProjectGraphs.pdb
