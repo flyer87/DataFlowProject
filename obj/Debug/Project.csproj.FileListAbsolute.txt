@@ -1,0 +1,11 @@
+D:\ITU_edu\3sem\TPL Dataflow\TPLDataflowProject\ProjectDataflowGraphs\bin\Debug\ProjectGraphs.exe.config
+D:\ITU_edu\3sem\TPL Dataflow\TPLDataflowProject\ProjectDataflowGraphs\obj\Debug\ProjectGraphs.exe
+D:\ITU_edu\3sem\TPL Dataflow\TPLDataflowProject\ProjectDataflowGraphs\obj\Debug\ProjectGraphs.pdb
+D:\ITU_edu\3sem\TPL Dataflow\TPLDataflowProject\Project\bin\Debug\ProjectGraphs.exe.config
+D:\ITU_edu\3sem\TPL Dataflow\TPLDataflowProject\Project\obj\Debug\ProjectGraphs.exe
+D:\ITU_edu\3sem\TPL Dataflow\TPLDataflowProject\Project\obj\Debug\ProjectGraphs.pdb
+D:\ITU_edu\3sem\TPL Dataflow\TPLDataflowProject\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\ITU_edu\3sem\TPL Dataflow\TPLDataflowProject\Project\bin\Debug\ProjectGraphs.exe
+D:\ITU_edu\3sem\TPL Dataflow\TPLDataflowProject\Project\bin\Debug\ProjectGraphs.pdb
+D:\ITU_edu\3sem\TPL Dataflow\TPLDataflowProject\Project\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\ITU_edu\3sem\TPL Dataflow\TPLDataflowProject\Project\bin\Debug\System.Threading.Tasks.Dataflow.xml
