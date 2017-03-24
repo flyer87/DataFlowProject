@@ -22,6 +22,7 @@ namespace ProjectGraphs
                     throw new Exception("");
                 }
                 Console.WriteLine(i);
+                Console.WriteLine(i + 1);
             }
 
             //var graph = Generate2CrossGraph(1000,LongOperation, LongOperationArray);
